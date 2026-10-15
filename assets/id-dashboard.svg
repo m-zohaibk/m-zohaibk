@@ -69,7 +69,7 @@
 
 <g style="animation:iddfu .8s ease 0.5s both;">
 <rect x="780" y="150" width="420" height="108" rx="20" fill="#0b1122" stroke="#2a3560" stroke-width="1.5"/>
-<text class="disp" x="812" y="212" font-size="46" fill="url(#iddbord)">25</text>
+<text class="disp" x="812" y="212" font-size="46" fill="url(#iddbord)">26</text>
 <text class="mono" x="812" y="240" font-size="20" font-weight="500" fill="#8b93ad">public repos</text>
 </g>
 <g style="animation:iddfu .8s ease 0.7s both;">
@@ -82,5 +82,5 @@
 <text class="disp" x="812" y="468" font-size="46" fill="url(#iddbord)">480</text>
 <text class="mono" x="812" y="496" font-size="20" font-weight="500" fill="#8b93ad">LinkedIn followers</text>
 </g>
-<text class="mono" x="780" y="560" font-size="17" fill="#4a5470">verified Oct 2026</text>
+<text class="mono" x="780" y="560" font-size="17" fill="#4a5470">auto-updated weekly · GitHub live</text>
 </svg>
