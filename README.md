@@ -1,14 +1,14 @@
-![Intro](./assets/hero.svg?v=4)
-![About](./assets/about-life.svg?v=4)
-![Stack](./assets/stack.svg?v=4)
-![ID](./assets/id-dashboard.svg?v=4)
-![Connect](./assets/connect.svg?v=4)
+![Intro](./assets/hero.svg?v=5)
+![About](./assets/about-life.svg?v=5)
+![Stack](./assets/stack.svg?v=5)
+![ID](./assets/id-dashboard.svg?v=5)
+![Connect](./assets/connect.svg?v=5)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mzohaibkhan"><img src="./assets/social-linkedin.svg?v=4" width="210" alt="LinkedIn"></a>
-<a href="https://www.tiktok.com/@app2try"><img src="./assets/social-tiktok.svg?v=4" width="210" alt="TikTok"></a>
-<a href="https://github.com/m-zohaibk"><img src="./assets/social-github.svg?v=4" width="210" alt="GitHub"></a>
-<a href="https://play.google.com/store/apps/details?id=com.unitool.ai"><img src="./assets/social-googleplay.svg?v=4" width="210" alt="Play Store"></a>
+<a href="https://www.linkedin.com/in/mzohaibkhan"><img src="./assets/social-linkedin.svg?v=5" width="210" alt="LinkedIn"></a>
+<a href="https://www.tiktok.com/@app2try"><img src="./assets/social-tiktok.svg?v=5" width="210" alt="TikTok"></a>
+<a href="https://github.com/m-zohaibk"><img src="./assets/social-github.svg?v=5" width="210" alt="GitHub"></a>
+<a href="https://play.google.com/store/apps/details?id=com.unitool.ai"><img src="./assets/social-googleplay.svg?v=5" width="210" alt="Play Store"></a>
 </p>
 
 ## 🚀 Projects
