@@ -1,14 +1,14 @@
-![Intro](./assets/hero.svg?v=5)
-![About](./assets/about-life.svg?v=5)
-![Stack](./assets/stack.svg?v=5)
-![ID](./assets/id-dashboard.svg?v=5)
-![Connect](./assets/connect.svg?v=5)
+![Intro](./assets/hero.svg?v=6)
+![About](./assets/about-life.svg?v=6)
+![Stack](./assets/stack.svg?v=6)
+![ID](./assets/id-dashboard.svg?v=6)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mzohaibkhan"><img src="./assets/social-linkedin.svg?v=5" width="210" alt="LinkedIn"></a>
-<a href="https://www.tiktok.com/@app2try"><img src="./assets/social-tiktok.svg?v=5" width="210" alt="TikTok"></a>
-<a href="https://github.com/m-zohaibk"><img src="./assets/social-github.svg?v=5" width="210" alt="GitHub"></a>
-<a href="https://play.google.com/store/apps/details?id=com.unitool.ai"><img src="./assets/social-googleplay.svg?v=5" width="210" alt="Play Store"></a>
+<p>
+<img src="./assets/connect.svg?v=6" width="240" align="left" alt="Zohaib">
+<a href="https://www.linkedin.com/in/mzohaibkhan"><img src="./assets/social-linkedin.svg?v=6" width="280" alt="LinkedIn"></a> <a href="https://www.tiktok.com/@app2try"><img src="./assets/social-tiktok.svg?v=6" width="280" alt="TikTok"></a>
+<br>
+<a href="https://github.com/m-zohaibk"><img src="./assets/social-github.svg?v=6" width="280" alt="GitHub"></a> <a href="https://play.google.com/store/apps/details?id=com.unitool.ai"><img src="./assets/social-googleplay.svg?v=6" width="280" alt="Play Store"></a>
+<br><br><br>
 </p>
 
 ## 🚀 Projects
@@ -20,4 +20,4 @@
 | **[Google 18 Pro Store](https://shop.izohaib.com)** | Single-product digital store · credit-wallet checkout |
 | **[UniTool](https://play.google.com/store/apps/details?id=com.unitool.ai)** | All-in-one AI toolbox — Android app on Google Play |
 
-<sub>Built with the Profile Playbook · animated SVG, zero external requests · © 2026 Muhammad Zohaib</sub>
+<sub>© 2026 Muhammad Zohaib</sub>
