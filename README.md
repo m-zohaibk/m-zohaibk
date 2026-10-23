@@ -1,9 +1,9 @@
-![Intro](./assets/hero.svg?v=9)
-![About](./assets/about-life.svg?v=9)
-![Stack](./assets/stack.svg?v=9)
-![ID](./assets/id-dashboard.svg?v=9)
+![Intro](./assets/hero.svg?v=10)
+![About](./assets/about-life.svg?v=10)
+![Stack](./assets/stack.svg?v=10)
+![ID](./assets/id-dashboard.svg?v=10)
 
-<p><img src="./assets/connect.svg?v=9" width="38.55%" align="left" alt="Zohaib"><a href="https://www.linkedin.com/in/mzohaibkhan"><img src="./assets/social-linkedin.svg?v=9" width="28.35%" alt="LinkedIn"></a><a href="https://www.tiktok.com/@app2try"><img src="./assets/social-tiktok.svg?v=9" width="30.3%" alt="TikTok"></a><br><a href="https://github.com/m-zohaibk"><img src="./assets/social-github.svg?v=9" width="28.35%" alt="GitHub"></a><a href="https://play.google.com/store/apps/details?id=com.unitool.ai"><img src="./assets/social-googleplay.svg?v=9" width="30.3%" alt="Play Store"></a></p>
+<p><img src="./assets/connect-top.svg?v=10" width="38.55%" alt="Zohaib"><a href="https://www.linkedin.com/in/mzohaibkhan"><img src="./assets/social-linkedin.svg?v=10" width="28.35%" alt="LinkedIn"></a><a href="https://www.tiktok.com/@app2try"><img src="./assets/social-tiktok.svg?v=10" width="30.3%" alt="TikTok"></a><br><img src="./assets/connect-bottom.svg?v=10" width="38.55%" alt=""><a href="https://github.com/m-zohaibk"><img src="./assets/social-github.svg?v=10" width="28.35%" alt="GitHub"></a><a href="https://play.google.com/store/apps/details?id=com.unitool.ai"><img src="./assets/social-googleplay.svg?v=10" width="30.3%" alt="Play Store"></a></p>
 
 ## 🚀 Projects
 
